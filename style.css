@@ -1,6 +1,3 @@
-
-
-  
 html,
 body {
   height: 100%;
@@ -278,7 +275,10 @@ background: linear-gradient(to left, #29323c, #485563); /* W3C, IE 10+/ Edge, Fi
       }
       body{
         
-        overflow-x:hidden!important;
+        
+      overflow-x: hidden!important;
+      
+
         font-size: 12px !important;
     }
     h1{
@@ -330,6 +330,112 @@ background: linear-gradient(to left, #29323c, #485563); /* W3C, IE 10+/ Edge, Fi
 
     }
 
+
+    .main-body-collapse-card-button{
+      font-size: 14px !important;
+      color: rgb(43, 46, 226) !important;
+
+
+
+
+    }
+    .main-body-collapse-card-button:hover{
+      
+      color: rgb(43, 46, 226) !important;
+
+
+
+
+    }
+
+    .main-card-1-text{
+
+      font-size: 14px !important;
+      text-align: start !important;
+      line-height: 1.2!important;
+
+
+    }
+
+    .main-card-1{
+
+      min-width: 90%;
+      height: auto;
+      line-height: normal !important;
+      text-align: start !important;
+      font-size: 10px!important;
+      }
+
+      .main-card-1-text{
+        font-size: 10px!important;
+      }
+
+      .main-card-1-heading-text{
+        font-size: 14px!important;
+      }
+
+      .main-card-1-heading-text-2{
+
+        font-size: 12px!important;
+      }
+
+
+  
+    
+      .main-card-2{
+
+        min-width: 90%;
+        height: auto;
+        line-height: normal !important;
+        text-align: start !important;
+        }
+        .main-card-3{
+
+          min-width: 90%;
+          height: auto;
+          line-height: normal !important;
+          text-align: start !important;
+          }
+          .main-card-4{
+
+            min-width: 90%;
+            height: auto;
+            line-height: normal !important;
+            text-align: start !important;
+            }
+            .main-card-5{
+
+              min-width: 90%;
+              height: auto;
+              line-height: normal !important;
+              text-align: start !important;
+              }
+              .main-card-6{
+
+                min-width: 90%;
+                height: auto;
+                line-height: normal !important;
+                text-align: start !important;
+                }
+
+                .cv-icon{
+
+                  width: 60px!important;
+                  height: auto!important;
+                }
+
+                .heading-CV{
+                  text-align: start!important;
+                  padding: 10px!important;
+                  }
+                  .heading-CV-text{
+                    font-size: 10px!important;
+
+
+
+
+
+                  }
     .logo-footer{
 
       width: 170px;
@@ -378,8 +484,8 @@ background: linear-gradient(to left, #29323c, #485563); /* W3C, IE 10+/ Edge, Fi
 
 
     }
-      
-      .mail-card-offcanvas{
+
+    .mail-card-offcanvas{
       width: 200px!important;
       height: auto;
 }
@@ -391,10 +497,16 @@ background: linear-gradient(to left, #29323c, #485563); /* W3C, IE 10+/ Edge, Fi
 
 
 
-}
+}}
+
   
-  
-  }
+
+
+
+
+
+
+
   
   
     
