@@ -378,6 +378,20 @@ background: linear-gradient(to left, #29323c, #485563); /* W3C, IE 10+/ Edge, Fi
 
 
     }
+      
+      .mail-card-offcanvas{
+      width: 200px!important;
+      height: auto;
+}
+  .phone-card-offcanvas{
+  width: 200px!important;
+  height: auto;
+
+
+
+
+
+}
   
   
   }
