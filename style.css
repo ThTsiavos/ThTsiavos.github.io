@@ -278,7 +278,7 @@ background: linear-gradient(to left, #29323c, #485563); /* W3C, IE 10+/ Edge, Fi
       }
       body{
         
-        overflow-x:hidden;
+        overflow-x:hidden!important;
         font-size: 12px !important;
     }
     h1{
