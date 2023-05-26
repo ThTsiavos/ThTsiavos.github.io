@@ -1,0 +1,202 @@
+
+
+  
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    61deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(218, 217, 233, 1) 15%,
+    rgba(208, 208, 224, 0.26934523809523814) 33%,
+    rgb(103, 125, 129) 100%
+  );
+  
+
+  background-attachment: fixed;
+}
+
+.container-fluid {
+  height: 100%;
+  padding-left: 0;
+  padding-right: 0;
+
+}
+
+
+
+.bg-text-dark {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    .offcanvas-body {
+        text-align: center; /* Align the text in the center horizontally */
+    
+    }
+    
+    ul {
+    
+    list-style-type:none;
+    
+    padding-left: 0px;
+    margin-bottom: 50px;
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+
+    .btn-close{
+      margin-left: 125px;
+
+
+
+
+    }
+
+  
+    
+    li {
+    margin-bottom: 20px;
+   
+    text-align: start;
+    }
+    .Offcanvas-Footer-Row{
+    position: absolute;
+    bottom: 40%;
+    text-align: end;
+    width: 100%;
+    
+    
+    }
+    
+    .offcanvas{
+      
+      background: #485563;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+      
+    
+    
+    
+    
+    
+    
+    }
+    .offcanvas-title{
+      padding: 16px;
+
+
+
+
+
+
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    .link {
+        color: rgb(42, 135, 179);
+      }
+
+    .link:hover{
+
+        color: blue;
+    }
+
+    li:hover a.link {
+        color: blue; /* Change this to the desired hover color */
+      }
+
+    li a.link{
+        color: white;
+
+
+
+    }
+
+    button {
+        outline-width: 1px;
+        outline-color: black;
+      
+        
+      }
+
+      .btn-a {
+        outline: none !important;
+        
+        border: none !important;
+      }
+
+      .btn-a:hover {
+        color: rgb(43, 46, 226) !important;
+      }
+
+      .element-with-hover-shadow {
+        
+        background-color: #f0f0f0;
+        transition: box-shadow 0.3s ease-in-out;
+      }
+      
+      .element-with-hover-shadow:hover {
+        box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+      }
+
+      .img-fluid {
+        font-size: 24px;
+        transition: transform 0.2s ease-in-out;
+      }
+
+      .img-fluid:hover {
+        transform: scale(1.2);
+      }
+
+      .btn-close{
+
+        opacity: 1;
+      }
+
+
+     
